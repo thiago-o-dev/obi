@@ -40,3 +40,7 @@ Fazer na quinta ou quarta provavelmente
 ---
 # OBI?
 # <!--fit-->obrigatorio pros **fodas**
+
+---
+![bg](https://github.com/user-attachments/assets/3c68abb9-d038-4527-9cd4-06286470136d)
+# <!--fit--> https://judge.beecrowd.com
