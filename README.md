@@ -30,11 +30,11 @@ _class: invert
 
 ---
 
-![bg contain](image.png)
+![bg contain](img/image.png)
 
 ---
 
-![bg contain](image-1.png)
+![bg contain](img/image-1.png)
 
 ---
 
